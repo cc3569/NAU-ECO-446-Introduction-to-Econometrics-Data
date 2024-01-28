@@ -1,1 +1,1 @@
-# NAU-ECO-446-Introduction-to-Econometrics-Data
+# NAU ECO 446 - Introduction to Econometrics
